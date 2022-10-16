@@ -1,0 +1,31 @@
+.textAppTitle {
+    font-weight: var(--font-weight-2);
+    font-size: var(--font-1);
+}
+
+.textStyle2 {
+    font-weight: var(--font-weight-2);
+    font-size: var( --font-weight-1);
+}
+
+.div__albumSmallInfos {
+    gap: 1.25rem;
+}
+
+.div__albumSmallInfos p {
+    font-size: var(--font-4);
+    font-weight: var(--font-weight-1);
+}
+
+.albumPrice {
+    font-weight: var(--font-weight-2);
+    font-size: var(--font-3);
+
+}
+
+#priceLimitFont {
+    font-weight: var(--font-weight-2);
+    font-size: var(--font-2);
+}
+
+

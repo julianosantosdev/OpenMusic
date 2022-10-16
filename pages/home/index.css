@@ -1,0 +1,51 @@
+main {
+    overflow-x: hidden;
+}
+
+header {
+    height: 2.5rem;
+    margin: 4rem auto;
+}
+
+.div__musicStylesButtons {
+    height: 8.75rem;
+    margin: 2rem auto;
+
+}
+
+.div__sliderButton {
+    height: 4rem;
+    margin: 3rem 0;
+}
+
+form {
+    margin-top: 1.25rem;
+}
+
+.div__albumList {
+    margin-top: 3rem;
+}
+
+li {
+    list-style: none;
+    width: 19.25rem;
+    border-radius: var(--radius-1);
+    background-color: var(--color-grey-8);
+    margin: 1.25rem 0;
+}
+
+.div__albumInfos {
+    padding: 1.25rem 1rem;
+    gap: 1.25rem;
+}
+
+.div__albumImg img{
+    width: 19.25rem;
+    height: 7.06rem;
+    border-radius: 0.250rem 0.250rem 0 0;
+}
+
+.div__priceAndButton {
+    height: 2rem;
+}
+
